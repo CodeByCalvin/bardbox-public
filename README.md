@@ -7,6 +7,10 @@
   <strong>https://www.bardbox.app/</strong>
 </p>
 
+<p align="center">
+<img height="500" alt="image" src="https://github.com/user-attachments/assets/acb327e6-a960-440f-a05c-0f969fbfa4a3" />
+</p>
+  
 ## About
 
 A tool that allows Dungeon Masters to bring their D&D games to life by organising their music into playlists, tagging, creating soundscape presets and much more.
